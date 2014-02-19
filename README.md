@@ -12,3 +12,5 @@ mvn install
 mvn package tomcat6:run
 
 It's will run in a embedded tomcat.
+
+the swagger interface can be access in http://localhost:8002/index.html
