@@ -1,4 +1,8 @@
-REST-API
+GWT-DEMO
+========
+This a GWT Demo project that will integrate to a webservice rest
+
+rest-api
 ========
 
 This is a webservice REST example implemented in CXF, using swagger to document the API.
